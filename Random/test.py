@@ -1,5 +1,0 @@
-print('hello')
-print(3 + 2)
-print(7*2)
-print()
-# print('The end', 'Do you understand this',3)
